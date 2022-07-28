@@ -1,0 +1,61 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: block;
+    text-align: -webkit-center; 
+    margin-left: auto;
+    margin-left: auto;
+   
+}
+.container{
+    width: 684px;
+    
+    /* background-color:yellow; */
+    display: block;
+    margin: auto;
+    
+      
+}
+
+.searchbox{
+    background-color: #EEEEEE;
+    text-align: -webkit-center; 
+}
+
+.box{
+    margin-top: 2px;
+height: 76px;
+   float: left;
+   width: 22%;
+   padding: 20px;
+   text-align: center;
+}
+
+.first {
+    width: 38%;
+    background-color:#7EE5DA;}
+.second {background-color: #70CCC2;}
+.third {
+    
+    font-size: 12px;
+    background-color: #62B3AA;
+    
+    
+    }
+
+.clearfix::after{
+    clear: both;
+    display: table;
+}
+    
+.footer{
+   text-align: center;
+}
+
+
+
+
